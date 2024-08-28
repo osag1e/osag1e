@@ -4,6 +4,7 @@
 - [My Latest Blog](https://osag1e.dev/posts)
 - [Contact Me](https://contact.osag1e.dev/)
 - Actively Building...
+- Learn, Build, Fail, Succeed, Repeat...
 
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-August%208%2C%202024-brightgreen)](https://github.com/osag1e/osag1e/)
 
