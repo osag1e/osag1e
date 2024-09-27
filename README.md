@@ -7,5 +7,5 @@
 - First milestone achieved. 
 - Learn, Build, Fail, Succeed, Repeat...
 
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-September%2003%2C%202024-brightgreen)](https://github.com/osag1e/osag1e/)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-September%2027%2C%202024-brightgreen)](https://github.com/osag1e/osag1e/)
 
