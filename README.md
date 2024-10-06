@@ -3,7 +3,7 @@
 **About Me**: [osag1e.dev](https://osag1e.dev/about)
 - [My Latest Blog](https://osag1e.dev/posts)
 - [Contact Me](https://contact.osag1e.dev/)
-- Actively building Ken-platform.
+- Actively building Ken-platform...
 - First milestone achieved. 
 - Learn, Build, Fail, Succeed, Repeat...
 
