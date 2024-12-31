@@ -5,9 +5,9 @@
 - [Contact Me](https://contact.osag1e.dev/)
 - Actively building the Ken platform...
 - First milestone for Ken achieved ✅
-- Switched to nvim & tmux—no more VSCode for me! 
+- I use Linux, Neovim & Tmux btw
 - Learn, build, fail, succeed, repeat...
-- Check out my [second account](https://github.com/kin8tic), where I learn about graphics programming.
+- Check out my [second account](https://github.com/kin8tic)
 
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-December%2005%2C%202024-brightgreen)](https://github.com/osag1e/osag1e/)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-December%2031%2C%202024-brightgreen)](https://github.com/osag1e/osag1e/)
 
